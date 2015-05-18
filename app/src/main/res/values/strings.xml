@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aula02E03</string>
+    <string name="bt_scroll_view_tela">Scroll View Tela</string>
+    <string name="bt_list_view_tela">List View Tela</string>
+    <string name="bt_telefonar">Telefonar</string>
+    <string name="splash">Tela de Splash</string>
+    <string name="item_cabecalho">Cabeçalho</string>
+    <string name="item_detalhes">sadsdasdassdadad/asdadasdadsasd/asdadsadssadasdasdadsasdasdasdasdasdadsadasdasdadsa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="nova_tela_label">Nova Tela</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_label">Ciclo de vida</string>
+    <string name="title_activity_nova_tela">Nova Tela Activity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+</resources>
